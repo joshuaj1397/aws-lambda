@@ -1,0 +1,16 @@
+{
+  "intents": [
+    {
+      "intent": "GetTrivia"
+    },
+    {
+      "intent": "GetKlingonPhrase",
+      "slots": [
+        {
+          "name": "Subject",
+          "type": "SUBJECT"
+        }
+      ]
+    }
+  ]
+}

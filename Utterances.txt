@@ -1,0 +1,7 @@
+GetTrivia to tell me a fact
+GetTrivia a fact
+GetTrivia tell me a fact
+
+GetKlingonPhrase tell me about {Subject}
+GetKlingonPhrase to tell me about {Subject}
+GetKlingonPhrase about {Subject}
